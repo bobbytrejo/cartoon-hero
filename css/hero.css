@@ -102,8 +102,5 @@ ul{
     list-style: none;
     text-align: center;
     display: flex;
-}
-
-ul.avatar{
     gap: 20px 20px;
 }
