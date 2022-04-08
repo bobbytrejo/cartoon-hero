@@ -7,12 +7,7 @@ body{
     background-color: #1665A0;
 }
 
-header{
-    background-color: #1665A0;
-    text-align: center;
-    padding-top: 40px;
-    padding-bottom: 40px;
-}
+/* heading styles */
 
 h1, h2{
     font-family: 'Share Tech', sans-serif;
@@ -22,7 +17,20 @@ h1{
     font-size: 60px;
 }
 
+h2{
+    color: #E1F9FF;
+    font-family: 'Share Tech', sans-serif;
+    margin: 40px 0 10px;
+    font-size: 30px;
+}
+
+/* header styles */
+
 header{
+    background-color: #1665A0;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
     color: white;
 }
 
@@ -31,6 +39,8 @@ header img{
     width: 300px;
     border: 10px solid #E1F9FF;
 }
+
+/* main styles */
 
 main{
     max-width: 800px;
@@ -42,19 +52,11 @@ main img{
     max-width: 100%;
 }
 
-h2{
-    font-size: 30px;
-}
-
-h2{
-    color: #E1F9FF;
-    font-family: 'Share Tech', sans-serif;
-    margin: 40px 0 10px;
-}
-
 p{
     font-size: 20px;
 }
+
+/* anchor styles */
 
 a{
     color: #E1F9FF;
